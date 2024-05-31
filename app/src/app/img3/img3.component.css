@@ -1,0 +1,18 @@
+.img1 {
+    background-image: url('/assets/ZiClJf-1920w.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 25%;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.content {
+    color: white;
+    /* padding-top: 20rem; */
+    /* padding-right: 15rem; */
+    text-transform: uppercase;
+}
