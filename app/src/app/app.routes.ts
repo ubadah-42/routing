@@ -6,6 +6,7 @@ import { Img2Component } from './img2/img2.component';
 import { Img3Component } from './img3/img3.component';
 import { Img4Component } from './img4/img4.component';
 import { Img5Component } from './img5/img5.component';
+import { Img6Component } from './img6/img6.component';
 
 export const routes: Routes = [
     { path: '', component: A1Component },
@@ -15,4 +16,5 @@ export const routes: Routes = [
     { path: 'img3', component: Img3Component },
     { path: 'img4', component: Img4Component },
     { path: 'img5', component: Img5Component },
+    { path: 'img6', component: Img6Component },
 ];
